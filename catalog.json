@@ -1,0 +1,95 @@
+{
+  "last_updated": "2026-09-10",
+  "total_companies": 4,
+  "companies": [
+    {
+      "id": "machines-and-equipment--08a-atlantic-trade-crank-2026",
+      "name": "08a. Atlantic Trade Crank 2026",
+      "categories": [
+        "Machines and equipment"
+      ],
+      "description": "Expertly designed machinery built for maximum durability and efficiency.",
+      "exporter": "International",
+      "status": "Verified",
+      "images": [],
+      "catalogs": [
+        {
+          "url": "https://raw.githubusercontent.com/atlantictradeus/catalog/main/machinery%20and%20equipments/08a.%20Atlantic%20Trade%20Crank%202026.pdf",
+          "filename": "08a. Atlantic Trade Crank 2026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "machines-and-equipment--concrete-pump",
+      "name": "concrete pump",
+      "categories": [
+        "Machines and equipment"
+      ],
+      "description": "",
+      "exporter": "International",
+      "status": "Verified",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/atlantictradeus/catalog/main/machinery%20and%20equipments/concrete%20pump/pump1.jpeg",
+          "filename": "pump1.jpeg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/atlantictradeus/catalog/main/machinery%20and%20equipments/concrete%20pump/pump2.jpeg",
+          "filename": "pump2.jpeg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/atlantictradeus/catalog/main/machinery%20and%20equipments/concrete%20pump/pump3.jpeg",
+          "filename": "pump3.jpeg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/atlantictradeus/catalog/main/machinery%20and%20equipments/concrete%20pump/Rebel%2055%20specifications-2.jpg",
+          "filename": "Rebel 55 specifications-2.jpg"
+        }
+      ],
+      "catalogs": [
+        {
+          "url": "https://raw.githubusercontent.com/atlantictradeus/catalog/main/machinery%20and%20equipments/concrete%20pump/ilker%20can%20pompa%20tan%C4%B1t%C4%B1m-V11.pdf",
+          "filename": "ilker can pompa tanıtım-V11.pdf"
+        }
+      ]
+    },
+    {
+      "id": "machines-and-equipment--concrete-pump-parts",
+      "name": "concrete pump parts",
+      "categories": [
+        "Machines and equipment"
+      ],
+      "description": "",
+      "exporter": "International",
+      "status": "Verified",
+      "images": [],
+      "catalogs": [
+        {
+          "url": "https://raw.githubusercontent.com/atlantictradeus/catalog/main/machinery%20and%20equipments/concrete%20pump%20parts/06.%20Atlantic%20Trade%20Concrete%20Pump%20Parts%20Catalog%202026-2.pdf",
+          "filename": "06. Atlantic Trade Concrete Pump Parts Catalog 2026-2.pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/atlantictradeus/catalog/main/machinery%20and%20equipments/concrete%20pump%20parts/Concrete%20Pump%20Parts%20Catalog%202026-2.pdf",
+          "filename": "Concrete Pump Parts Catalog 2026-2.pdf"
+        }
+      ]
+    },
+    {
+      "id": "machines-and-equipment--excavator-teeths",
+      "name": "excavator teeths",
+      "categories": [
+        "Machines and equipment"
+      ],
+      "description": "",
+      "exporter": "International",
+      "status": "Verified",
+      "images": [],
+      "catalogs": [
+        {
+          "url": "https://raw.githubusercontent.com/atlantictradeus/catalog/main/machinery%20and%20equipments/excavator%20teeths/07.%20Atlantic%20trade%20excavator%20teeths.pdf",
+          "filename": "07. Atlantic trade excavator teeths.pdf"
+        }
+      ]
+    }
+  ]
+}
